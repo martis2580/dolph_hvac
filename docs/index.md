@@ -1,7 +1,14 @@
-# My Docs
+# Delfinaruimo vėdinimo įrangos bei DX šildymo ir vėsinimo sekcijų valdymo instrukcija
 
-Welcome.
+```{toctree}
+:maxdepth: 2
+:caption: Turinys
 
-## Section
-
-Write your docs in Markdown here.
+01-bendroji
+02-identifikavimas
+03-algoritmai
+04-hmi
+05-prieziura
+06-aliarmai
+07-bms
+```
