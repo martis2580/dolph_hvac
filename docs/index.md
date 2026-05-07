@@ -1,4 +1,4 @@
-# Delfinaruimo vėdinimo įrangos bei DX šildymo ir vėsinimo sekcijų valdymo instrukcija
+# Delfinariumo vėdinimo įrangos bei DX šildymo ir vėsinimo sekcijų valdymo instrukcija
 
 ```{toctree}
 :maxdepth: 2
