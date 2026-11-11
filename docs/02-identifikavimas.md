@@ -1,6 +1,6 @@
-# Įrangos identifikavimas ir kodavimas
+# Vėdinimo įrangos elementų identifikavimas ir lokacija
 
-## Valdymo skydų ženklinimo iššifravimas
+Kadangi arenos (OŠP1, OŠP2) ir gyvenamųjų baseinų (OŠP3) vėdinimo įrenginių konstrukciniai parametrai yra analogiški, visa tolesnė apžvalga ir aprašymas pateikiami remiantis OŠP3 modelio pavyzdžiu.
 
-## Sistemos konfigūracijos nustatymai
+## Temperatūros jutikliai 
 
