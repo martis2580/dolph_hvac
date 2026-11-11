@@ -3,13 +3,9 @@
 Kadangi arenos (OŠP1, OŠP2) ir gyvenamųjų baseinų (OŠP3) vėdinimo įrenginių konstrukciniai parametrai yra analogiški, visa tolesnė apžvalga ir aprašymas pateikiami remiantis OŠP3 modelio pavyzdžiu.
 
 ## Temperatūros jutikliai 
-<p align="center">
-  <img src="../pics/temp_sensor_locations.png" alt="Temperatūros daviklių išdėstymo vietos" width="800">
-</p>
+![Temperatūros jutiklių išdėstymas](../pics/temp_sensor_locations.png)
 
 ### Rekuperacinės sistemos temperatūros jutiklių analizė
-
-![Temperatūros jutiklių išdėstymo vietos](../pics/temp_sensor_locations.png)
 
 | Jutiklis | Pavadinimas | Techninė paskirtis ir reikšmė |
 |:---:|---|---|
